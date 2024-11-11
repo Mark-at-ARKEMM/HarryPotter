@@ -24,6 +24,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4D1164ED2CE1CD8200C86D07 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		4D1164F12CE1CE7B00C86D07 /* ComponentDependencies.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ComponentDependencies.png; path = DesignResources/ComponentDependencies.png; sourceTree = "<group>"; };
 		4D95C5D12CD65098006614C1 /* HarryPotter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HarryPotter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D95C5E12CD65099006614C1 /* HarryPotterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HarryPotterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D95C5EB2CD65099006614C1 /* HarryPotterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HarryPotterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -88,6 +90,8 @@
 		4D95C5C82CD65098006614C1 = {
 			isa = PBXGroup;
 			children = (
+				4D1164F12CE1CE7B00C86D07 /* ComponentDependencies.png */,
+				4D1164ED2CE1CD8200C86D07 /* README.md */,
 				4D95C5D32CD65098006614C1 /* HarryPotter */,
 				4D95C5E42CD65099006614C1 /* HarryPotterTests */,
 				4D95C5EE2CD65099006614C1 /* HarryPotterUITests */,
